@@ -49,7 +49,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 ---
 ## Welcome to the world of Eberon
 
-[![World map screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/Player Movement - Singleton.PNG)]()
+[![World map screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/1.PNG)]()
 
 The world of Sanctuary is... a work in progress!
 In the world of Eberon, you play the role of a miscreant adventurer as he works his way up through skill and valor to become a mighty hero. Entering a lawless land outside the city walls, you must fight to survive.
@@ -64,10 +64,10 @@ You are negotiating passage to the northern mountains with the gatekeeper of New
 ```
 ---
 
-[![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/Wolf - Factory.PNG)]()
+[![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/2.PNG)]()
 
 
-[![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/WorldRenderer - Strategy.PNG)]()
+[![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/3.PNG)]()
 
 
 ## Release History
