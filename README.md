@@ -64,8 +64,11 @@ You are negotiating passage to the northern mountains with the gatekeeper of New
 ```
 ---
 
-[![combat](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/Wolf - Factory.PNG)]()
-[![adventure sample](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/WorldRenderer - Strategy.PNG)]()
+[![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/Wolf - Factory.PNG)]()
+
+
+[![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/WorldRenderer - Strategy.PNG)]()
+
 
 ## Release History
 
