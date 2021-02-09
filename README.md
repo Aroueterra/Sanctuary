@@ -35,7 +35,7 @@ The commands allowed to you are viewable by typing the 'help' command.
 
 The following table contains the available commands. Simply type the command+substitute the words in brackets:
 
-[![Help screen](https://github.com/Aroueterra/RPG_Framework/blob/master/PreviewImages/Help.PNG)]()
+[![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/Help.PNG)]()
 
 Commands are case-sensistive. All inputted text must be in lower-case, unless stated otherwise.
 
@@ -49,7 +49,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 ---
 ## Welcome to the world of Eberon
 
-[![World map screen](PreviewImages/Player Movement - Singleton.PNG)]()
+[![World map screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/Player Movement - Singleton.PNG)]()
 
 The world of Sanctuary is... a work in progress!
 In the world of Eberon, you play the role of a miscreant adventurer as he works his way up through skill and valor to become a mighty hero. Entering a lawless land outside the city walls, you must fight to survive.
@@ -64,8 +64,8 @@ You are negotiating passage to the northern mountains with the gatekeeper of New
 ```
 ---
 
-[![combat](https://github.com/Aroueterra/RPG_Framework/blob/master/PreviewImages/Wolf - Factory.PNG)]()
-[![adventure sample](https://github.com/Aroueterra/RPG_Framework/blob/master/PreviewImages/Player Movement - Singleton.PNG)]()
+[![combat](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/Wolf - Factory.PNG)]()
+[![adventure sample](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/WorldRenderer - Strategy.PNG)]()
 
 ## Release History
 
