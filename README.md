@@ -67,7 +67,11 @@ You are negotiating passage to the northern mountains with the gatekeeper of New
 [![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/2.PNG)]()
 
 
-[![Help screen](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/3.PNG)]()
+[![score](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/3.PNG)]()
+
+[![traverse](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/4.PNG)]()
+
+[![shift](https://github.com/Aroueterra/Sanctuary/blob/main/PreviewImages/5.PNG)]()
 
 
 ## Release History
